@@ -1,5 +1,3 @@
-# alonfri
-
 ## Introduction
 
 The project is part of a research made by the doctorent, MR. Abrahami Israeli, in BGU University.
